@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.navigation{
+    width: 80%;
+    margin: auto;
+    background: transparent;
+}
+.logo-brand{
+    width: 250px;
+}
+.logo-brand img{
+    width: 100%;
+}
+.nav-item .nav-link{
+    font-weight: bold;
+    padding: 15px 30px!important;
+}
+header {
+    background-color: #fabe4c17;
+}
+h1{
+    font-size: 50px;
+}
+.home-header {
+    color: #fabe4c;
+}
+.btn{
+    background: #a4bc46;
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+.hover-effcet{
+    transition:transform 1s;
+}
+.hover-effcet:hover{
+    transform: scaleY(.9);
+}
